@@ -28,7 +28,7 @@
 
 - Don’t try to recap everything
 - Looking for 5 min presentation (10 max)
-- What are the 3-5 Big Ideas of the material?
+- Choose **3-5** Big Ideas of the material- really, don't try to do more than 5 :-) !!!
 
 #### What's a Big Idea?
 - Provides a focusing conceptual “lens” for any study
