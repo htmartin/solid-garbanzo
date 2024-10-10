@@ -1,0 +1,15 @@
+### Review Questions
+- What do you know about controlling the flow the data?  You know about if... elif ... what about for and while loops?
+- What you like or not like about IDEs?  Is Jupyter one?
+- On the job we might just write the code in a hurry ... expecting the code to run from top of the file to the bottom and stop.  Okay ... but ... about functions?  Python's own or our own?  Benefits?
+- Containers! We have a bunch of variable types [int, char, boolean, string, float, list, dictionary, tuple, set] ... what do you know about their mutability?  Why use one over another?
+- What do you know about Python's treatment of floats, ints?
+- Why would you use a set?  A list?  A dictionary?  A tuple?  What are some of the pros and cons of each? And how might two of them work together to get a task done efficiently?
+- Give an example of θ(n)
+- What's the θ of a for loop?  Two for loops?  An if in the for loop?  What if you had a for loop with a conditional?
+- Strings!  How are you with String processing?  Comfortable with extract sub-sets? 
+- Are functions required to return something?
+- What about extracting matching data from a larger set of data?
+- How might you use a delimter?
+- What are some of the __xxxx___ variables you've encountered?  What about __doc__?
+- Objects!  In OOP what's the other name for a Parent class?  And if the child constructor requires 3 parameters and the parent class requires 2 parameters, can the child still invoke the Parent()?

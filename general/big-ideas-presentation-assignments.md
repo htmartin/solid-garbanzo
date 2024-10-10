@@ -2,23 +2,23 @@
 
 - Week 3: Geon Kim, William Kueshner
 
-- Week 4: Karim Mattar, Joshua Pearce
+- Week 4: Karim Mattar, Josh Pearce
 
-- Week 5: Carlos Santander Espinoza, Vaishnavi Vasudeva, Ender Ricart
+- Week 5: Carlos Santander, Vaishnavi Vasudeva, Ender Ricart
 
 - Week 6: Georgios Friligkos
 
 - Week 7: Alec Heyde
 
-- Week 8: Geon Kim
+- Week 8: Taylor ( Work on your Midterms :-)
 
 - Week 9: William Kueshner
 
 - Week 10: Karim Mattar, Ender Ricart
 
-- Week 11: Joshua Pearce
+- Week 11: Josh Pearce, Geon Kim
 
-- Week 12: Carlos Santander Espinoza
+- Week 12: Carlos Santander
 
 - Week 13: Vaishnavi Vasudeva
 
