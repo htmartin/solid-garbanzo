@@ -12,13 +12,13 @@
 
 - Week 8: Taylor ( Work on your Midterms :-)
 
-- Week 9: William Kueshner
+- Week 9: Carlos Santander
 
 - Week 10: Karim Mattar, Ender Ricart
 
 - Week 11: Josh Pearce, Geon Kim
 
-- Week 12: Carlos Santander
+- Week 12: William Kueshner 
 
 - Week 13: Vaishnavi Vasudeva
 
