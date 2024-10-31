@@ -16,12 +16,6 @@
 
 - Week 10: Karim Mattar, Ender Ricart
 
-- Week 11: Josh Pearce, Geon Kim
-
-- Week 12: William Kueshner 
-
-- Week 13: Vaishnavi Vasudeva
-
 
 
 ### Async presentation Instructions:

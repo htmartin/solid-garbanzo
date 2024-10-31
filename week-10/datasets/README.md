@@ -1,0 +1,42 @@
+# Data Sets Licenses
+
+- sales - synthetic data set with CC0 
+- student_data - synthetic data set with CC0
+- ds_salaries - https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries with CC0
+- titanic_data
+- WheatProduction - https://www.kaggle.com/datasets/rajkumarpandey02/wheat-production-statistics with Open Database License
+- world_internet_user
+- tech-stock-prices
+- spotify-dataset - https://www.kaggle.com/datasets/iamsumat/spotify-top-2000s-mega-dataset with CC0
+- CoffeeData - https://www.kaggle.com/datasets/michals22/coffee-dataset with CC0
+- WorldPopulationData - https://www.kaggle.com/datasets/tusharaggarwal27/2022-dec-world-populations with Open Database License
+- nasa_planet_fact_sheet - https://nssdc.gsfc.nasa.gov/planetary/factsheet/
+- train-info-india - https://www.kaggle.com/datasets/binilj04/irctctraininfo with Open Database License
+- tucson_wiki - https://en.wikipedia.org/wiki/Tucson,_Arizona with CC-BY-SA
+- weather_by_month - https://www.extremeweatherwatch.com/cities/tucson data is from NOAA which is public use with no restrictions
+- book_borrowed_per_month - synthetic data with CC0
+- profile_data - synthetic data with CC0
+- country-population - https://www.kaggle.com/datasets/tusharaggarwal27/2022-dec-world-populations with Open Database License
+- layoffs - https://www.kaggle.com/datasets/swaptr/layoffs-2022 with Open Database License
+- li-jobs-usa - https://www.kaggle.com/datasets/cedricaubin/linkedin-data-analyst-jobs-listings with CC0
+- li-jobs-canada - https://www.kaggle.com/datasets/cedricaubin/linkedin-data-analyst-jobs-listings with CC0
+- meta-stock - https://www.kaggle.com/datasets/whenamancodes/meta-stock-market-analysis-founding-years with Open Database License
+- youtube-most-subscribed-channels - https://www.kaggle.com/datasets/surajjha101/top-youtube-channels-data with Open Database License
+- ds-jobs-india - https://www.kaggle.com/datasets/anandhuh/data-science-jobs-in-india with Open Database License
+- company-a-customers - synthetic data with CC0
+- company-b-customers - synthetic data with CC0
+- company-c-customers - synthetic data with CC0
+- transactions-dec-2021 - synthetic data with CC0
+- transactions-jan-2022 - synthetic data with CC0
+- calculated-tax-dec-2021 - synthetic data with CC0
+- stock-prices - synthetic data with CC0
+- used-car-makes-stock - synthetic data with CC0
+- used-car-makes-sold - synthetic data with CC0
+- wait-times - synthetic data with CC0
+- office-times - synthetic data with CC0
+- hot-chocolate-sales - synthetic data with CC0
+- ice-cream-sales - synthetic data with CC0
+- world-cup-2022 - https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-statistics with Open Database License
+- diamonds - https://www.kaggle.com/datasets/swatikhedekar/price-prediction-of-diamond with Open Database License
+- star-type - https://www.kaggle.com/datasets/brsdincer/star-type-classification with Open Database License
+- diabetes - https://www.kaggle.com/datasets/girishvutukuri/diabetes-binary-classification with Open Database License
