@@ -1,5 +1,9 @@
 ### htop exploration
 
+- What's your longest running program.
+- How memory does your computer have
+- How many tasks are running?
+- What threads are running currently?
 
 
 - Install htop if needed
