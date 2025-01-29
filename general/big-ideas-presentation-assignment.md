@@ -3,7 +3,7 @@
 - **Don’t try to recap everything**
 - Looking for 5 min presentation (10 max)
 - From the async lecture and the readings, choose the **3-5** Big Ideas of the material. Really, I will stop you after 5 :-) 
-- Use a Jupyter Notebook. Include 3-5 Main Points with code to illustrate the Big Idea
+- Use a Jupyter Notebook. For each Big Idea (Main Point), provide a simple example with code that illustrates it.
 - For example, See: `big-ideas-week8.ipynb`
 
 #### What's a Big Idea?
